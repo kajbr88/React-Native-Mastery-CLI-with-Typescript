@@ -6,7 +6,7 @@ This repository contains the project files and code developed during the "React 
 
 This course focuses on building proficiency in React Native development using the command-line interface (CLI) and incorporating TypeScript for enhanced code quality and maintainability. Hitesh Choudhary guides learners through the process of developing 10 distinct mobile applications, covering a wide range of practical skills and concepts.
 
-## Course Outline (Approximate)
+## Course Outline
 
 1.  **Introduction to React Native CLI:** Setting up the development environment using the command-line interface.
 2.  **TypeScript Fundamentals for React Native:** Integrating TypeScript into React Native projects for static typing.
