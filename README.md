@@ -13,7 +13,7 @@ This course focuses on building proficiency in React Native development using th
 3.  **Core React Native Concepts:** Components, Props, State, Styling, Handling User Input.
 4.  **Navigation:** Implementing different navigation patterns (e.g., Stack Navigator, Tab Navigator).
 5.  **Working with APIs:** Fetching and displaying data from external APIs.
-6.  **State Management:** Utilizing state management solutions (likely Context API or potentially Redux/Zustand).
+6.  **State Management:** Utilizing state management solutions (Context API, Redux).
 7.  **Asynchronous Operations:** Handling asynchronous tasks and promises.
 8.  **Native Modules and APIs:** Interacting with device features.
 9.  **Building UI Libraries/Components:** Creating reusable UI elements.
